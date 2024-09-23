@@ -350,7 +350,7 @@
 }
 
 .team .team-item:hover .team-content {
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0.07);
 }
 
 .team .team-item .team-content {
